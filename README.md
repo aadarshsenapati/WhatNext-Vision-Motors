@@ -4,6 +4,7 @@ WhatsNext Vision Motors is revolutionizing its customer experience and operation
 
 Automated workflows update order statuses dynamically and send scheduled email reminders for test drives. Key technical implementations include Apex triggers for stock validation, batch jobs for stock updates, and scheduled Apex for automated order processing. This initiative enhances customer satisfaction, improves order accuracy, and boosts overall operational efficiency.
 
+Video(Better Quality): https://drive.google.com/file/d/1nsZgpV69Gp-1l9Hb3P5yDkTIsE9cJrWr/view
 ---
 
 ## Project Features
